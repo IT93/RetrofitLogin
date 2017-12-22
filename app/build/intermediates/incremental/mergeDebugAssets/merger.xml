@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\WeltesDev\Android Project\RetrofilLogin\app\src\main\assets"/><source path="E:\WeltesDev\Android Project\RetrofilLogin\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\WeltesDev\Android Project\RetrofilLogin\app\src\debug\assets"/></dataSet></merger>
